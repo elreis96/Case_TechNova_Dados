@@ -1,0 +1,11 @@
+﻿setor,status,quantidade,score_medio,score_min,score_max,perf_viab_medio
+Agri-IoT,Ativa,7,3.98,3.88,4.17,4.09
+Agri-IoT,Inativa,2,2.04,2.02,2.05,1.75
+Enviro-Tech,Ativa,8,3.93,3.8,4.1,3.91
+Enviro-Tech,Inativa,1,2.13,2.13,2.13,2.3
+Power-Grid,Ativa,7,4.03,3.88,4.13,3.9
+Power-Grid,Inativa,2,1.93,1.93,1.93,1.85
+SmartCity,Ativa,4,3.96,3.88,4.08,4.05
+SmartCity,Inativa,5,1.97,1.73,2.13,2.06
+Water-Ops,Ativa,7,3.96,3.77,4.1,4.09
+Water-Ops,Inativa,2,2.16,2.13,2.2,2.2

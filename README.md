@@ -182,6 +182,40 @@ HAVING MIN(d.score) > 3.5;
 
 Veja mais exemplos em [`README_BANCO_DADOS.md`](README_BANCO_DADOS.md)
 
+## 📊 Integração com Power BI
+
+O banco de dados SQLite pode ser **facilmente integrado ao Power BI** para criar dashboards interativos!
+
+### 🚀 Início Rápido
+
+**Opção 1: Usar CSVs Exportados (Mais Simples)**
+```bash
+python exportar_para_powerbi.py
+```
+Isso gera 7 arquivos CSV otimizados na pasta `powerbi_export/`:
+- ✅ Tabelas principais (4 arquivos)
+- ✅ View consolidada com todas as dimensões
+- ✅ Análise por setor
+- ✅ Ranking de startups
+
+**Opção 2: Conexão Direta ao SQLite**
+- Instale o driver ODBC SQLite
+- No Power BI: **Obter Dados** → **ODBC** ou **SQLite**
+- Selecione `technova_iot.db`
+
+**Opção 3: Script Python no Power BI**
+- Use o arquivo `powerbi_export/script_conexao_powerbi.py`
+- No Power BI: **Obter Dados** → **Python Script**
+
+### 📈 Recursos Disponíveis
+
+- **Medidas DAX** pré-configuradas (KPIs, rankings, comparações)
+- **Visualizações recomendadas** (radar, scatter, boxplot, heatmap)
+- **Relacionamentos** entre tabelas configuráveis
+- **Dashboard template** com layout sugerido
+
+Veja o guia completo em [`GUIA_POWER_BI.md`](GUIA_POWER_BI.md)
+
 ## 📊 Metodologia de Análise
 
 ### 1. Tratamento de Dados

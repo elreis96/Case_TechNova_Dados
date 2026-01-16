@@ -1,0 +1,361 @@
+﻿id,startup_id,dimensao,score
+1,1,Grupo 1 - Performance Técnica,4.0
+2,1,Grupo 2 - Viabilidade Econômica,3.6
+3,1,Grupo 3 - Confiabilidade,4.0
+4,1,Grupo 4 - Usabilidade,4.2
+5,1,Grupo 5 - Eficiência Energética,4.4
+6,1,Grupo 6 - Robustez Física,3.4
+7,1,Grupo 7 - Conectividade,3.8
+8,1,Grupo 8 - Sustentabilidade,3.8
+9,2,Grupo 1 - Performance Técnica,4.2
+10,2,Grupo 2 - Viabilidade Econômica,4.0
+11,2,Grupo 3 - Confiabilidade,4.2
+12,2,Grupo 4 - Usabilidade,4.6
+13,2,Grupo 5 - Eficiência Energética,4.4
+14,2,Grupo 6 - Robustez Física,4.2
+15,2,Grupo 7 - Conectividade,3.6
+16,2,Grupo 8 - Sustentabilidade,3.6
+17,3,Grupo 1 - Performance Técnica,2.2
+18,3,Grupo 2 - Viabilidade Econômica,2.0
+19,3,Grupo 3 - Confiabilidade,2.6
+20,3,Grupo 4 - Usabilidade,1.8
+21,3,Grupo 5 - Eficiência Energética,1.8
+22,3,Grupo 6 - Robustez Física,2.2
+23,3,Grupo 7 - Conectividade,1.6
+24,3,Grupo 8 - Sustentabilidade,2.0
+25,4,Grupo 1 - Performance Técnica,3.8
+26,4,Grupo 2 - Viabilidade Econômica,3.6
+27,4,Grupo 3 - Confiabilidade,3.2
+28,4,Grupo 4 - Usabilidade,4.4
+29,4,Grupo 5 - Eficiência Energética,3.6
+30,4,Grupo 6 - Robustez Física,4.4
+31,4,Grupo 7 - Conectividade,3.6
+32,4,Grupo 8 - Sustentabilidade,3.8
+33,5,Grupo 1 - Performance Técnica,3.8
+34,5,Grupo 2 - Viabilidade Econômica,3.8
+35,5,Grupo 3 - Confiabilidade,3.6
+36,5,Grupo 4 - Usabilidade,4.4
+37,5,Grupo 5 - Eficiência Energética,5.0
+38,5,Grupo 6 - Robustez Física,4.0
+39,5,Grupo 7 - Conectividade,3.4
+40,5,Grupo 8 - Sustentabilidade,4.0
+41,6,Grupo 1 - Performance Técnica,1.4
+42,6,Grupo 2 - Viabilidade Econômica,1.8
+43,6,Grupo 3 - Confiabilidade,3.0
+44,6,Grupo 4 - Usabilidade,1.8
+45,6,Grupo 5 - Eficiência Energética,1.8
+46,6,Grupo 6 - Robustez Física,1.8
+47,6,Grupo 7 - Conectividade,2.0
+48,6,Grupo 8 - Sustentabilidade,2.6
+49,7,Grupo 1 - Performance Técnica,4.0
+50,7,Grupo 2 - Viabilidade Econômica,3.8
+51,7,Grupo 3 - Confiabilidade,4.2
+52,7,Grupo 4 - Usabilidade,4.2
+53,7,Grupo 5 - Eficiência Energética,4.0
+54,7,Grupo 6 - Robustez Física,4.0
+55,7,Grupo 7 - Conectividade,4.2
+56,7,Grupo 8 - Sustentabilidade,3.8
+57,8,Grupo 1 - Performance Técnica,3.8
+58,8,Grupo 2 - Viabilidade Econômica,4.4
+59,8,Grupo 3 - Confiabilidade,3.4
+60,8,Grupo 4 - Usabilidade,3.6
+61,8,Grupo 5 - Eficiência Energética,4.0
+62,8,Grupo 6 - Robustez Física,4.0
+63,8,Grupo 7 - Conectividade,4.0
+64,8,Grupo 8 - Sustentabilidade,4.0
+65,9,Grupo 1 - Performance Técnica,4.2
+66,9,Grupo 2 - Viabilidade Econômica,3.8
+67,9,Grupo 3 - Confiabilidade,4.2
+68,9,Grupo 4 - Usabilidade,3.8
+69,9,Grupo 5 - Eficiência Energética,4.0
+70,9,Grupo 6 - Robustez Física,4.0
+71,9,Grupo 7 - Conectividade,4.2
+72,9,Grupo 8 - Sustentabilidade,3.6
+73,10,Grupo 1 - Performance Técnica,2.0
+74,10,Grupo 2 - Viabilidade Econômica,1.8
+75,10,Grupo 3 - Confiabilidade,2.2
+76,10,Grupo 4 - Usabilidade,2.0
+77,10,Grupo 5 - Eficiência Energética,1.8
+78,10,Grupo 6 - Robustez Física,2.0
+79,10,Grupo 7 - Conectividade,2.0
+80,10,Grupo 8 - Sustentabilidade,1.6
+81,11,Grupo 1 - Performance Técnica,4.0
+82,11,Grupo 2 - Viabilidade Econômica,3.4
+83,11,Grupo 3 - Confiabilidade,3.4
+84,11,Grupo 4 - Usabilidade,4.4
+85,11,Grupo 5 - Eficiência Energética,3.8
+86,11,Grupo 6 - Robustez Física,4.2
+87,11,Grupo 7 - Conectividade,4.2
+88,11,Grupo 8 - Sustentabilidade,3.8
+89,12,Grupo 1 - Performance Técnica,4.0
+90,12,Grupo 2 - Viabilidade Econômica,4.2
+91,12,Grupo 3 - Confiabilidade,3.8
+92,12,Grupo 4 - Usabilidade,3.4
+93,12,Grupo 5 - Eficiência Energética,3.2
+94,12,Grupo 6 - Robustez Física,4.2
+95,12,Grupo 7 - Conectividade,4.4
+96,12,Grupo 8 - Sustentabilidade,3.0
+97,13,Grupo 1 - Performance Técnica,1.8
+98,13,Grupo 2 - Viabilidade Econômica,1.8
+99,13,Grupo 3 - Confiabilidade,2.2
+100,13,Grupo 4 - Usabilidade,2.0
+101,13,Grupo 5 - Eficiência Energética,1.4
+102,13,Grupo 6 - Robustez Física,1.8
+103,13,Grupo 7 - Conectividade,2.4
+104,13,Grupo 8 - Sustentabilidade,1.6
+105,14,Grupo 1 - Performance Técnica,4.2
+106,14,Grupo 2 - Viabilidade Econômica,3.8
+107,14,Grupo 3 - Confiabilidade,3.8
+108,14,Grupo 4 - Usabilidade,3.2
+109,14,Grupo 5 - Eficiência Energética,4.2
+110,14,Grupo 6 - Robustez Física,4.6
+111,14,Grupo 7 - Conectividade,4.2
+112,14,Grupo 8 - Sustentabilidade,4.0
+113,15,Grupo 1 - Performance Técnica,4.2
+114,15,Grupo 2 - Viabilidade Econômica,3.8
+115,15,Grupo 3 - Confiabilidade,4.0
+116,15,Grupo 4 - Usabilidade,4.4
+117,15,Grupo 5 - Eficiência Energética,3.6
+118,15,Grupo 6 - Robustez Física,4.0
+119,15,Grupo 7 - Conectividade,4.0
+120,15,Grupo 8 - Sustentabilidade,4.4
+121,16,Grupo 1 - Performance Técnica,4.0
+122,16,Grupo 2 - Viabilidade Econômica,4.0
+123,16,Grupo 3 - Confiabilidade,4.4
+124,16,Grupo 4 - Usabilidade,4.0
+125,16,Grupo 5 - Eficiência Energética,4.0
+126,16,Grupo 6 - Robustez Física,3.2
+127,16,Grupo 7 - Conectividade,3.4
+128,16,Grupo 8 - Sustentabilidade,4.0
+129,17,Grupo 1 - Performance Técnica,3.6
+130,17,Grupo 2 - Viabilidade Econômica,4.2
+131,17,Grupo 3 - Confiabilidade,4.2
+132,17,Grupo 4 - Usabilidade,4.6
+133,17,Grupo 5 - Eficiência Energética,4.0
+134,17,Grupo 6 - Robustez Física,3.6
+135,17,Grupo 7 - Conectividade,4.0
+136,17,Grupo 8 - Sustentabilidade,3.8
+137,18,Grupo 1 - Performance Técnica,2.0
+138,18,Grupo 2 - Viabilidade Econômica,1.6
+139,18,Grupo 3 - Confiabilidade,1.8
+140,18,Grupo 4 - Usabilidade,1.6
+141,18,Grupo 5 - Eficiência Energética,1.2
+142,18,Grupo 6 - Robustez Física,2.2
+143,18,Grupo 7 - Conectividade,1.6
+144,18,Grupo 8 - Sustentabilidade,1.8
+145,19,Grupo 1 - Performance Técnica,4.8
+146,19,Grupo 2 - Viabilidade Econômica,3.4
+147,19,Grupo 3 - Confiabilidade,3.8
+148,19,Grupo 4 - Usabilidade,3.4
+149,19,Grupo 5 - Eficiência Energética,4.2
+150,19,Grupo 6 - Robustez Física,3.8
+151,19,Grupo 7 - Conectividade,4.0
+152,19,Grupo 8 - Sustentabilidade,4.0
+153,20,Grupo 1 - Performance Técnica,4.0
+154,20,Grupo 2 - Viabilidade Econômica,3.6
+155,20,Grupo 3 - Confiabilidade,4.0
+156,20,Grupo 4 - Usabilidade,3.6
+157,20,Grupo 5 - Eficiência Energética,4.2
+158,20,Grupo 6 - Robustez Física,4.4
+159,20,Grupo 7 - Conectividade,4.8
+160,20,Grupo 8 - Sustentabilidade,3.6
+161,21,Grupo 1 - Performance Técnica,1.4
+162,21,Grupo 2 - Viabilidade Econômica,2.4
+163,21,Grupo 3 - Confiabilidade,2.0
+164,21,Grupo 4 - Usabilidade,1.6
+165,21,Grupo 5 - Eficiência Energética,2.0
+166,21,Grupo 6 - Robustez Física,2.2
+167,21,Grupo 7 - Conectividade,2.2
+168,21,Grupo 8 - Sustentabilidade,2.6
+169,22,Grupo 1 - Performance Técnica,4.8
+170,22,Grupo 2 - Viabilidade Econômica,4.4
+171,22,Grupo 3 - Confiabilidade,3.8
+172,22,Grupo 4 - Usabilidade,3.4
+173,22,Grupo 5 - Eficiência Energética,4.2
+174,22,Grupo 6 - Robustez Física,3.4
+175,22,Grupo 7 - Conectividade,4.2
+176,22,Grupo 8 - Sustentabilidade,3.6
+177,23,Grupo 1 - Performance Técnica,4.0
+178,23,Grupo 2 - Viabilidade Econômica,4.0
+179,23,Grupo 3 - Confiabilidade,4.0
+180,23,Grupo 4 - Usabilidade,3.8
+181,23,Grupo 5 - Eficiência Energética,4.0
+182,23,Grupo 6 - Robustez Física,4.2
+183,23,Grupo 7 - Conectividade,3.6
+184,23,Grupo 8 - Sustentabilidade,4.2
+185,24,Grupo 1 - Performance Técnica,2.0
+186,24,Grupo 2 - Viabilidade Econômica,2.6
+187,24,Grupo 3 - Confiabilidade,2.0
+188,24,Grupo 4 - Usabilidade,2.2
+189,24,Grupo 5 - Eficiência Energética,1.6
+190,24,Grupo 6 - Robustez Física,2.0
+191,24,Grupo 7 - Conectividade,2.2
+192,24,Grupo 8 - Sustentabilidade,2.4
+193,25,Grupo 1 - Performance Técnica,3.8
+194,25,Grupo 2 - Viabilidade Econômica,3.4
+195,25,Grupo 3 - Confiabilidade,4.2
+196,25,Grupo 4 - Usabilidade,4.0
+197,25,Grupo 5 - Eficiência Energética,4.0
+198,25,Grupo 6 - Robustez Física,4.4
+199,25,Grupo 7 - Conectividade,3.6
+200,25,Grupo 8 - Sustentabilidade,3.6
+201,26,Grupo 1 - Performance Técnica,4.2
+202,26,Grupo 2 - Viabilidade Econômica,4.4
+203,26,Grupo 3 - Confiabilidade,4.2
+204,26,Grupo 4 - Usabilidade,4.6
+205,26,Grupo 5 - Eficiência Energética,3.8
+206,26,Grupo 6 - Robustez Física,3.2
+207,26,Grupo 7 - Conectividade,3.6
+208,26,Grupo 8 - Sustentabilidade,4.4
+209,27,Grupo 1 - Performance Técnica,2.2
+210,27,Grupo 2 - Viabilidade Econômica,2.0
+211,27,Grupo 3 - Confiabilidade,2.4
+212,27,Grupo 4 - Usabilidade,3.0
+213,27,Grupo 5 - Eficiência Energética,1.6
+214,27,Grupo 6 - Robustez Física,2.0
+215,27,Grupo 7 - Conectividade,2.4
+216,27,Grupo 8 - Sustentabilidade,2.0
+217,28,Grupo 1 - Performance Técnica,4.2
+218,28,Grupo 2 - Viabilidade Econômica,4.2
+219,28,Grupo 3 - Confiabilidade,4.0
+220,28,Grupo 4 - Usabilidade,3.4
+221,28,Grupo 5 - Eficiência Energética,4.0
+222,28,Grupo 6 - Robustez Física,3.2
+223,28,Grupo 7 - Conectividade,3.8
+224,28,Grupo 8 - Sustentabilidade,4.2
+225,29,Grupo 1 - Performance Técnica,3.8
+226,29,Grupo 2 - Viabilidade Econômica,3.6
+227,29,Grupo 3 - Confiabilidade,4.0
+228,29,Grupo 4 - Usabilidade,4.4
+229,29,Grupo 5 - Eficiência Energética,3.6
+230,29,Grupo 6 - Robustez Física,3.8
+231,29,Grupo 7 - Conectividade,3.8
+232,29,Grupo 8 - Sustentabilidade,3.6
+233,30,Grupo 1 - Performance Técnica,3.8
+234,30,Grupo 2 - Viabilidade Econômica,4.6
+235,30,Grupo 3 - Confiabilidade,4.0
+236,30,Grupo 4 - Usabilidade,4.0
+237,30,Grupo 5 - Eficiência Energética,3.8
+238,30,Grupo 6 - Robustez Física,4.4
+239,30,Grupo 7 - Conectividade,3.8
+240,30,Grupo 8 - Sustentabilidade,4.4
+241,31,Grupo 1 - Performance Técnica,4.8
+242,31,Grupo 2 - Viabilidade Econômica,4.4
+243,31,Grupo 3 - Confiabilidade,3.8
+244,31,Grupo 4 - Usabilidade,4.2
+245,31,Grupo 5 - Eficiência Energética,4.0
+246,31,Grupo 6 - Robustez Física,3.2
+247,31,Grupo 7 - Conectividade,3.8
+248,31,Grupo 8 - Sustentabilidade,4.4
+249,32,Grupo 1 - Performance Técnica,2.2
+250,32,Grupo 2 - Viabilidade Econômica,2.4
+251,32,Grupo 3 - Confiabilidade,1.2
+252,32,Grupo 4 - Usabilidade,2.0
+253,32,Grupo 5 - Eficiência Energética,2.0
+254,32,Grupo 6 - Robustez Física,2.8
+255,32,Grupo 7 - Conectividade,2.2
+256,32,Grupo 8 - Sustentabilidade,2.2
+257,33,Grupo 1 - Performance Técnica,3.8
+258,33,Grupo 2 - Viabilidade Econômica,4.0
+259,33,Grupo 3 - Confiabilidade,3.4
+260,33,Grupo 4 - Usabilidade,4.2
+261,33,Grupo 5 - Eficiência Energética,4.6
+262,33,Grupo 6 - Robustez Física,4.6
+263,33,Grupo 7 - Conectividade,4.0
+264,33,Grupo 8 - Sustentabilidade,4.0
+265,34,Grupo 1 - Performance Técnica,4.4
+266,34,Grupo 2 - Viabilidade Econômica,4.2
+267,34,Grupo 3 - Confiabilidade,4.4
+268,34,Grupo 4 - Usabilidade,3.8
+269,34,Grupo 5 - Eficiência Energética,3.6
+270,34,Grupo 6 - Robustez Física,4.4
+271,34,Grupo 7 - Conectividade,4.4
+272,34,Grupo 8 - Sustentabilidade,3.6
+273,35,Grupo 1 - Performance Técnica,2.2
+274,35,Grupo 2 - Viabilidade Econômica,1.4
+275,35,Grupo 3 - Confiabilidade,2.0
+276,35,Grupo 4 - Usabilidade,2.4
+277,35,Grupo 5 - Eficiência Energética,1.6
+278,35,Grupo 6 - Robustez Física,1.8
+279,35,Grupo 7 - Conectividade,2.2
+280,35,Grupo 8 - Sustentabilidade,1.8
+281,36,Grupo 1 - Performance Técnica,3.8
+282,36,Grupo 2 - Viabilidade Econômica,4.0
+283,36,Grupo 3 - Confiabilidade,4.2
+284,36,Grupo 4 - Usabilidade,4.0
+285,36,Grupo 5 - Eficiência Energética,3.4
+286,36,Grupo 6 - Robustez Física,3.6
+287,36,Grupo 7 - Conectividade,4.2
+288,36,Grupo 8 - Sustentabilidade,3.8
+289,37,Grupo 1 - Performance Técnica,4.4
+290,37,Grupo 2 - Viabilidade Econômica,4.0
+291,37,Grupo 3 - Confiabilidade,3.6
+292,37,Grupo 4 - Usabilidade,3.8
+293,37,Grupo 5 - Eficiência Energética,3.6
+294,37,Grupo 6 - Robustez Física,4.0
+295,37,Grupo 7 - Conectividade,4.0
+296,37,Grupo 8 - Sustentabilidade,4.8
+297,38,Grupo 1 - Performance Técnica,2.6
+298,38,Grupo 2 - Viabilidade Econômica,1.8
+299,38,Grupo 3 - Confiabilidade,1.8
+300,38,Grupo 4 - Usabilidade,2.0
+301,38,Grupo 5 - Eficiência Energética,2.0
+302,38,Grupo 6 - Robustez Física,2.0
+303,38,Grupo 7 - Conectividade,2.2
+304,38,Grupo 8 - Sustentabilidade,2.6
+305,39,Grupo 1 - Performance Técnica,4.4
+306,39,Grupo 2 - Viabilidade Econômica,3.4
+307,39,Grupo 3 - Confiabilidade,4.0
+308,39,Grupo 4 - Usabilidade,3.4
+309,39,Grupo 5 - Eficiência Energética,4.0
+310,39,Grupo 6 - Robustez Física,3.8
+311,39,Grupo 7 - Conectividade,4.4
+312,39,Grupo 8 - Sustentabilidade,3.6
+313,40,Grupo 1 - Performance Técnica,4.2
+314,40,Grupo 2 - Viabilidade Econômica,4.2
+315,40,Grupo 3 - Confiabilidade,4.0
+316,40,Grupo 4 - Usabilidade,4.2
+317,40,Grupo 5 - Eficiência Energética,3.8
+318,40,Grupo 6 - Robustez Física,4.6
+319,40,Grupo 7 - Conectividade,4.2
+320,40,Grupo 8 - Sustentabilidade,3.8
+321,41,Grupo 1 - Performance Técnica,4.2
+322,41,Grupo 2 - Viabilidade Econômica,4.4
+323,41,Grupo 3 - Confiabilidade,3.6
+324,41,Grupo 4 - Usabilidade,4.2
+325,41,Grupo 5 - Eficiência Energética,4.4
+326,41,Grupo 6 - Robustez Física,4.4
+327,41,Grupo 7 - Conectividade,4.0
+328,41,Grupo 8 - Sustentabilidade,4.2
+329,42,Grupo 1 - Performance Técnica,3.2
+330,42,Grupo 2 - Viabilidade Econômica,4.4
+331,42,Grupo 3 - Confiabilidade,3.4
+332,42,Grupo 4 - Usabilidade,3.4
+333,42,Grupo 5 - Eficiência Energética,4.2
+334,42,Grupo 6 - Robustez Física,4.2
+335,42,Grupo 7 - Conectividade,4.2
+336,42,Grupo 8 - Sustentabilidade,3.8
+337,43,Grupo 1 - Performance Técnica,2.2
+338,43,Grupo 2 - Viabilidade Econômica,2.6
+339,43,Grupo 3 - Confiabilidade,2.2
+340,43,Grupo 4 - Usabilidade,2.4
+341,43,Grupo 5 - Eficiência Energética,1.6
+342,43,Grupo 6 - Robustez Física,2.2
+343,43,Grupo 7 - Conectividade,1.6
+344,43,Grupo 8 - Sustentabilidade,2.0
+345,44,Grupo 1 - Performance Técnica,3.6
+346,44,Grupo 2 - Viabilidade Econômica,3.6
+347,44,Grupo 3 - Confiabilidade,4.0
+348,44,Grupo 4 - Usabilidade,4.2
+349,44,Grupo 5 - Eficiência Energética,4.2
+350,44,Grupo 6 - Robustez Física,4.0
+351,44,Grupo 7 - Conectividade,4.0
+352,44,Grupo 8 - Sustentabilidade,4.0
+353,45,Grupo 1 - Performance Técnica,3.6
+354,45,Grupo 2 - Viabilidade Econômica,3.8
+355,45,Grupo 3 - Confiabilidade,4.2
+356,45,Grupo 4 - Usabilidade,4.2
+357,45,Grupo 5 - Eficiência Energética,4.2
+358,45,Grupo 6 - Robustez Física,3.8
+359,45,Grupo 7 - Conectividade,4.2
+360,45,Grupo 8 - Sustentabilidade,4.2
