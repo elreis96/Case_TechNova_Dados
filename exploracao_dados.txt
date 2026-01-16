@@ -1,0 +1,149 @@
+============================================================
+ABAS DISPONÍVEIS NO ARQUIVO EXCEL
+============================================================
+['Dim_Setores', 'Fact_Incidentes', 'Avaliacoes_Startups', 'Dados', 'Consulta']
+
+============================================================
+ABA: Dim_Setores
+============================================================
+Shape: (5, 5)
+
+Colunas (5):
+  1. nome_setor
+  2. id_setor_cod
+  3. tamanho_mercado_bi
+  4. risco_regulatorio
+  5. crescimento_anual
+
+Primeiras 5 linhas:
+    nome_setor id_setor_cod  tamanho_mercado_bi risco_regulatorio  crescimento_anual
+0     Agri-IoT         S-01                15.2             Baixo               0.12
+1    Water-Ops         S-02                 8.4              Alto               0.05
+2    SmartCity         S-03                45.0             Médio               0.18
+3  Enviro-Tech         S-04                12.1             Médio               0.09
+4   Power-Grid         S-05                22.5              Alto               0.07
+
+============================================================
+ABA: Fact_Incidentes
+============================================================
+Shape: (349, 6)
+
+Colunas (6):
+  1. id_ticket
+  2. id_startup
+  3. data_abertura
+  4. tipo_falha
+  5. severidade
+  6. status_ticket
+
+Primeiras 5 linhas:
+   id_ticket  id_startup data_abertura tipo_falha severidade status_ticket
+0  TKT-25795           1    2024-12-14     Sensor      Baixa       Fechado
+1  TKT-64886           1    2024-05-01     Sensor      Média       Fechado
+2  TKT-54131           1    2024-12-25     Sensor       Alta       Fechado
+3  TKT-69735           1    2024-10-20    Bateria      Baixa    Em Análise
+4  TKT-93104           1    2024-11-09   Software      Baixa       Fechado
+
+============================================================
+ABA: Avaliacoes_Startups
+============================================================
+Shape: (45, 45)
+
+Colunas (45):
+  1. id_startup
+  2. nome_startup
+  3. setor
+  4. status
+  5. data_avaliacao
+  6. 1.1_precisao_basica
+  7. 1.2_calibracao
+  8. 1.3_estabilidade_leitura
+  9. 1.4_latencia_sinal
+  10. 1.5_relacao_sinal_ruido
+  11. 2.1_custo_bom
+  12. 2.2_custo_opex
+  13. 2.3_tempo_deploy
+  14. 2.4_escalabilidade_fabril
+  15. 2.5_competitividade_preco
+  16. 3.1_mtbf_teorico
+  17. 3.2_tratamento_erros
+  18. 3.3_estabilidade_firmware
+  19. 3.4_tempo_recuperacao
+  20. 3.5_stress_test
+  21. 4.1_tempo_instalacao
+  22. 4.2_facilidade_config
+  23. 4.3_clareza_dashboard
+  24. 4.4_feedback_usuario
+  25. 4.5_doc_tecnica
+  26. 5.1_autonomia_bateria
+  27. 5.2_eficiencia_carga
+  28. 5.3_consumo_standby
+  29. 5.4_dimensionamento_fonte
+  30. 5.5_modo_sleep
+  31. 6.1_protecao_ip_agua
+  32. 6.2_resistencia_termica
+  33. 6.3_integridade_mecanica
+  34. 6.4_resistencia_impacto
+  35. 6.5_durabilidade_conector
+  36. 7.1_perda_pacotes
+  37. 7.2_latencia_nuvem
+  38. 7.3_integridade_backup
+  39. 7.4_resiliencia_api
+  40. 7.5_seguranca_cripto
+  41. 8.1_risco_supply_chain
+  42. 8.2_frequencia_manutencao
+  43. 8.3_indice_reparabilidade
+  44. 8.4_tempo_montagem
+  45. 8.5_ciclo_vida_material
+
+Primeiras 5 linhas:
+   id_startup   nome_startup        setor   status data_avaliacao  1.1_precisao_basica  1.2_calibracao  1.3_estabilidade_leitura  1.4_latencia_sinal  1.5_relacao_sinal_ruido  2.1_custo_bom  2.2_custo_opex  2.3_tempo_deploy  2.4_escalabilidade_fabril  2.5_competitividade_preco  3.1_mtbf_teorico  3.2_tratamento_erros  3.3_estabilidade_firmware  3.4_tempo_recuperacao  3.5_stress_test  4.1_tempo_instalacao  4.2_facilidade_config  4.3_clareza_dashboard  4.4_feedback_usuario  4.5_doc_tecnica  5.1_autonomia_bateria  5.2_eficiencia_carga  5.3_consumo_standby  5.4_dimensionamento_fonte  5.5_modo_sleep  6.1_protecao_ip_agua  6.2_resistencia_termica  6.3_integridade_mecanica  6.4_resistencia_impacto  6.5_durabilidade_conector  7.1_perda_pacotes  7.2_latencia_nuvem  7.3_integridade_backup  7.4_resiliencia_api  7.5_seguranca_cripto  8.1_risco_supply_chain  8.2_frequencia_manutencao  8.3_indice_reparabilidade  8.4_tempo_montagem  8.5_ciclo_vida_material
+0           1      AlphaTech     Agri-IoT    Ativa     2025-01-10                    3               5                         5                   4                        3              4               5                 3                          3                          3                 4                     3                          3                      5                5                     4                      4                      4                     4                5                      5                     4                    4                          4               5                     5                        3                         3                        3                          3                  3                   4                       4                    4                     4                       3                          3                          5                   4                        4
+1           2  BetaSolutions    Water-Ops    Ativa     2025-01-11                    4               3                         4                   5                        5              3               4                 5                          3                          5                 5                     4                          5                      3                4                     5                      5                      5                     3                5                      3                     5                    5                          4               5                     3                        5                         5                        3                          5                  3                   5                       3                    3                     4                       5                          3                          3                   4                        3
+2           3   GammaSystems    SmartCity  Inativa     2024-11-05                    1               1                         3                   3                        3              2               1                 3                          1                          3                 3                     3                          1                      3                3                     2                      2                      2                     2                1                      2                     2                    3                          1               1                     3                        3                         3                        1                          1                  2                   1                       1                    3                     1                       2                          1                          3                   3                        1
+3           4   DeltaDevices  Enviro-Tech    Ativa     2025-01-12                    3               5                         5                   3                        3              3               3                 3                          5                          4                 3                     3                          3                      4                3                     5                      4                      5                     3                5                      5                     4                    3                          3               3                     5                        4                         5                        5                          3                  4                   3                       4                    4                     3                       4                          4                          5                   3                        3
+4           5  EpsilonEnergy   Power-Grid    Ativa     2025-01-08                    4               3                         4                   4                        4              3               3                 4                          5                          4                 4                     3                          3                      3                5                     5                      4                      5                     4                4                      5                     5                    5                          5               5                     5                        5                         4                        3                          3                  3                   3                       3                    5                     3                       4                          4                          4                   5                        3
+
+============================================================
+ABA: Dados
+============================================================
+Shape: (69, 6)
+
+Colunas (6):
+  1. Unnamed: 0
+  2. Unnamed: 1
+  3. Unnamed: 2
+  4. Unnamed: 3
+  5. Unnamed: 4
+  6. Unnamed: 5
+
+Primeiras 5 linhas:
+                                          Unnamed: 0             Unnamed: 1                                    Unnamed: 2                           Unnamed: 3                          Unnamed: 4            Unnamed: 5
+0  1 – Critérios de avaliação de Precisão (Accuracy)                    NaN                                           NaN                                  NaN                                 NaN                   NaN
+1                                                NaN                    NaN                                           NaN                                  NaN                                 NaN                   NaN
+2                                        Indicadores  Inaceitável – 1 Ponto                              Fraco – 2 Pontos                 Aceitável – 3 Pontos                      Bom – 4 Pontos  Excelente – 5 Pontos
+3                                1.1_precisao_basica            Erro > 20%.                           Erro entre 10-20%.                          Erro < 10%.                           Erro < 5%.            Erro < 2%.
+4                                     1.2_calibracao             Erro > 25%  Erro entre 15–25%. Funcionamento inadequado.  Erro < 15%. Cumpre a função básica.  Erro < 10%. Funcionamento robusto.           Erro < 5%. 
+
+============================================================
+ABA: Consulta
+============================================================
+Shape: (60, 7)
+
+Colunas (7):
+  1. Unnamed: 0
+  2. Unnamed: 1
+  3. Unnamed: 2
+  4. Unnamed: 3
+  5. Unnamed: 4
+  6. Unnamed: 5
+  7. Unnamed: 6
+
+Primeiras 5 linhas:
+   Unnamed: 0   Unnamed: 1 Unnamed: 2                                                                         Unnamed: 3  Unnamed: 4   Unnamed: 5  Unnamed: 6
+0         NaN          NaN        NaN                                                                                NaN         NaN          NaN         NaN
+1         NaN  Avaliação 1       Nota                                                                          Pontuação         NaN          NaN         NaN
+2         NaN   Critétio 1          2                                                                Erro entre 10-20%.          NaN  Avaliação 1         3.6
+3         NaN   Critétio 2          4                                                 Erro < 10%. Funcionamento robusto.         NaN  Avaliação 2         3.0
+4         NaN   Critétio 3          2  Deriva > 15%. Dados das últimas semanas inutilizáveis, requer revisão de projeto.         NaN  Avaliação 3         3.4
+

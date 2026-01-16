@@ -1,0 +1,13 @@
+﻿id_startup,nome_startup,setor,status,data_avaliacao,1.1_precisao_basica,1.2_calibracao,1.3_estabilidade_leitura,1.4_latencia_sinal,1.5_relacao_sinal_ruido,2.1_custo_bom,2.2_custo_opex,2.3_tempo_deploy,2.4_escalabilidade_fabril,2.5_competitividade_preco,3.1_mtbf_teorico,3.2_tratamento_erros,3.3_estabilidade_firmware,3.4_tempo_recuperacao,3.5_stress_test,4.1_tempo_instalacao,4.2_facilidade_config,4.3_clareza_dashboard,4.4_feedback_usuario,4.5_doc_tecnica,5.1_autonomia_bateria,5.2_eficiencia_carga,5.3_consumo_standby,5.4_dimensionamento_fonte,5.5_modo_sleep,6.1_protecao_ip_agua,6.2_resistencia_termica,6.3_integridade_mecanica,6.4_resistencia_impacto,6.5_durabilidade_conector,7.1_perda_pacotes,7.2_latencia_nuvem,7.3_integridade_backup,7.4_resiliencia_api,7.5_seguranca_cripto,8.1_risco_supply_chain,8.2_frequencia_manutencao,8.3_indice_reparabilidade,8.4_tempo_montagem,8.5_ciclo_vida_material,Score_Global
+3,GammaSystems,SmartCity,Inativa,2024-11-05,1,1,3,3,3,2,1,3,1,3,3,3,1,3,3,2,2,2,2,1,2,2,3,1,1,3,3,3,1,1,2,1,1,3,1,2,1,3,3,1,2.025
+6,ZetaSensors,Agri-IoT,Inativa,2024-10-20,2,1,1,2,1,1,2,3,2,1,3,3,3,3,3,1,3,2,1,2,2,2,2,1,2,2,2,2,2,1,3,2,1,1,3,2,3,2,3,3,2.025
+10,KappaPower,Power-Grid,Inativa,2024-12-01,2,3,1,3,1,1,3,1,3,1,2,1,3,2,3,1,2,1,3,3,3,1,1,3,1,3,1,1,3,2,3,2,2,1,2,1,1,2,2,2,1.925
+13,NuTraffic,SmartCity,Inativa,2024-09-15,1,3,3,1,1,2,2,1,1,3,2,1,3,2,3,1,2,2,2,3,1,2,2,1,1,1,1,2,3,2,3,3,2,3,1,3,1,2,1,1,1.875
+18,SigmaParking,SmartCity,Inativa,2024-11-20,1,2,3,2,2,1,1,2,1,3,1,3,1,1,3,1,1,1,2,3,1,1,1,2,1,2,3,2,1,3,2,1,2,2,1,1,1,3,2,2,1.725
+21,PhiFarm,Agri-IoT,Inativa,2024-12-10,2,1,1,1,2,2,3,2,2,3,3,1,3,2,1,2,3,1,1,1,2,1,3,3,1,2,2,3,3,1,2,1,3,2,3,3,3,3,1,3,2.05
+24,OmegaCarbon,Enviro-Tech,Inativa,2024-10-05,3,2,2,1,2,3,3,2,2,3,2,1,3,2,2,3,1,2,3,2,1,1,1,3,2,1,1,2,3,3,3,3,1,3,1,3,2,3,1,3,2.125
+27,GimelFlow,Water-Ops,Inativa,2024-11-15,3,2,3,1,2,3,1,2,2,2,3,2,3,1,3,3,3,3,3,3,1,2,1,3,1,2,1,3,1,3,3,3,1,3,2,2,1,3,1,3,2.2
+32,HetPure,Water-Ops,Inativa,2024-10-30,1,2,3,2,3,2,2,2,3,3,2,1,1,1,1,3,1,2,3,1,3,2,1,1,3,2,3,3,3,3,3,3,3,1,1,2,3,1,3,2,2.125
+35,KafGrid,Power-Grid,Inativa,2024-11-25,1,1,3,3,3,2,1,1,2,1,2,3,1,3,1,1,3,2,3,3,3,2,1,1,1,3,1,1,1,3,3,3,1,3,1,1,1,2,2,3,1.925
+38,NunBin,SmartCity,Inativa,2024-10-10,3,2,3,2,3,1,3,3,1,1,1,3,1,3,1,2,2,2,3,1,3,2,1,2,2,1,1,3,3,2,2,3,1,3,2,2,3,2,3,3,2.125
+43,QofCross,SmartCity,Inativa,2024-11-10,2,3,1,3,2,3,3,2,3,2,2,2,2,2,3,3,2,1,3,3,2,1,2,1,2,3,3,1,2,2,2,1,2,2,1,2,3,1,1,3,2.1
